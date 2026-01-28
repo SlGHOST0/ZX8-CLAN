@@ -1,13 +1,13 @@
 -- ts file was generated at discord.gg/25ms
 
-local _H3LLMuscleLegendsPublicVersion = loadstring(game:HttpGet('https://raw.githubusercontent.com/iblameaabis/Ililililililililililililil/refs/heads/main/h3ll%20library', true))():AddWindow('H3LL Muscle Legends || Public Version', {
+local _H3LLMuscleLegendsPublicVersion = loadstring(game:HttpGet('https://raw.githubusercontent.com/iblameaabis/Ililililililililililililil/refs/heads/main/h3ll%20library', true))():AddWindow('ZX8 Muscle Legends || Public Version', {
     main_color = Color3.fromRGB(0, 0, 225),
     min_size = Vector2.new(400, 800),
     can_resize = false,
 })
 local _Intro = _H3LLMuscleLegendsPublicVersion:AddTab('INFO')
 
-_Intro:AddLabel('H3LL Clan Owner = ZX8_RUmi')
+_Intro:AddLabel('ZX8 Clan Owner = ZX8_RUmi')
 _Intro:AddLabel('Script Made By ABD|| [BSW]GHOST')
 _Intro:AddLabel('ZX8 x SL Hub On Top!')
 _Intro:AddLabel('Scroll Through The Tabs to see more tabs.')
