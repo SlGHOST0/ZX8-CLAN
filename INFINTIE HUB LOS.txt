@@ -13,7 +13,7 @@ local SettingsTab = SpeedHub:AddTab('Settings')
 HomeTab:Show()
 HomeTab:AddLabel('MADE BY SL_GHOST ')
 HomeTab:AddLabel('If you have any suggestions please let us know')
-HomeTab:AddLabel('Enjoy the script!')
+HomeTab:AddLabel(' OWENER OF INFINITY HUB IS ST4R!')
 
 local IsAutoOrbEnabled = false
 local SelectedOrb = 'Orange Orb'
