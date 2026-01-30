@@ -1,4 +1,4 @@
-local SpeedHub = loadstring(game:HttpGet('https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library', true))():AddWindow('INFINTIE HUB | LEGENDS OF SPEED', {
+local SpeedHub = loadstring(game:HttpGet('https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library', true))():AddWindow('INFINITY HUB | LEGENDS OF SPEED', {
     main_color = Color3.fromRGB(0, 0, 0),
     min_size = Vector2.new(415, 250),
     can_resize = false,
