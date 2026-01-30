@@ -1,15 +1,14 @@
--- ts file was generated at discord.gg/25ms
 
-local _H3LLPUBLICMUSCLELEGENDS = loadstring(game:HttpGet('https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library', true))():AddWindow('INFINTIE HUB PUBLIC | MUSCLE LEGENDS', {
+local _INFINTIEPUBLICMUSCLELEGENDS = loadstring(game:HttpGet('https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library', true))():AddWindow('INFINTIE HUB PUBLIC | MUSCLE LEGENDS', {
     main_color = Color3.fromRGB(0, 0, 0),
     min_size = Vector2.new(475, 382),
     can_resize = false,
 })
-local _Home = _H3LLPUBLICMUSCLELEGENDS:AddTab('Home')
+local _Home = _INFINTIEPUBLICMUSCLELEGENDS:AddTab('Home')
 
 _Home:Show()
-_Home:AddLabel('Credits to GHOST for making the INFITIE Public script')
-_Home:AddLabel('If you guys want anything added tell us on the discord')
+_Home:AddLabel('Credits to SL-GHOST for making the INFITIE Public script')
+_Home:AddLabel(' OWMER OF INFNTIE HUB IS ST4R')
 _Home:AddLabel(' IF YOU FIND ANY BUGS REPORT IN DISCORD SERVER')
 _Home:AddLabel('Enjoy using the script and have fun')
 _Home:AddLabel('------------- Teleports -------------')
