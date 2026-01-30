@@ -1,4 +1,3 @@
-Fuck henee
 
 local _H3LLPUBLICMUSCLELEGENDS = loadstring(game:HttpGet('https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library', true))():AddWindow('H3LL PUBLIC | MUSCLE LEGENDS', {
     main_color = Color3.fromRGB(0, 128, 128),
