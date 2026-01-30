@@ -1,5 +1,5 @@
 
-local _H3LLPUBLICMUSCLELEGENDS = loadstring(game:HttpGet('https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library', true))():AddWindow('INFINTIE PUBLIC | MUSCLE LEGENDS', {
+local _H3LLPUBLICMUSCLELEGENDS = loadstring(game:HttpGet('https://raw.githubusercontent.com/memejames/elerium-v2-ui-library//main/Library', true))():AddWindow('INFINITY PUBLIC | MUSCLE LEGENDS', {
     main_color = Color3.fromRGB(0, 0, 0),
     min_size = Vector2.new(475, 382),
     can_resize = false,
